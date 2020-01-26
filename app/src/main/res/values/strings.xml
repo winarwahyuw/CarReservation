@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Car Reservation</string>
+    <string name="email">Email</string>
+    <string name="pass">Password</string>
+    <string name="update">UPDATE</string>
+    <string name="rev_code">Rev. Code</string>
+    <string name="cost">cost</string>
+    <string name="car">car</string>
+    <string name="rent_end">rent_end</string>
+    <string name="address">address</string>
+    <string name="rent_start">rent_start</string>
+    <string name="name">name</string>
+    <string name="reservation_form">Reservation Form</string>
+    <string name="email_address">Email Address</string>
+    <string name="login">LOGIN</string>
+    <string name="didn_t_have_account">Didn\'t have Account?</string>
+    <string name="register_here">REGISTER HERE</string>
+    <string name="register">register</string>
+    <string name="already_have_account">Already have Account?</string>
+    <string name="login_here">LOGIN HERE</string>
+    <string name="save">SAVE</string>
+    <string name="until">until</string>
+    <string name="delete">DELETE</string>
+    <string name="log_out">Log Out</string>
+    <string name="language_setting">Language Setting</string>
+    <string name="about">About</string>
+    <string name="ini_diisi_profil">INI DIISI PROFIL</string>
+    <string name="zidane">Zidane</string>
+    <string name="winar">Winar</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ini_profil_zidane">INI PROFIL ZIDANE</string>
+    <string name="ini_profil_winar">INI PROFIL WINAR</string>
+    <string name="car_reservation_list">Car Reservation List</string>
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Rental Mobil</string>
+    <string name="email">Email</string>
+    <string name="pass">Kata sandi</string>
+    <string name="update">Perbarui</string>
+    <string name="rev_code">Kode</string>
+    <string name="cost">Biaya</string>
+    <string name="car">Mobil</string>
+    <string name="rent_end">Rental berakhir</string>
+    <string name="address">Alamat</string>
+    <string name="rent_start">Rental Mulai</string>
+    <string name="name">Name</string>
+    <string name="reservation_form">Form Rental</string>
+    <string name="email_address">Alamat Email</string>
+    <string name="login">MASUK</string>
+    <string name="didn_t_have_account">Belum punya akun?</string>
+    <string name="register_here">DAFTAR DI SINI</string>
+    <string name="register">DAFTAR</string>
+    <string name="already_have_account">Sudah punya akun?</string>
+    <string name="login_here">MASUK DI SINI</string>
+    <string name="save">SIMPAN</string>
+    <string name="until">s/d</string>
+    <string name="delete">HAPUS</string>
+    <string name="log_out">Keluar</string>
+    <string name="language_setting">Atur Bahasa</string>
+    <string name="about">Tentang</string>
+    <string name="ini_diisi_profil">INI DIISI PROFIL</string>
+</resources>
